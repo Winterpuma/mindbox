@@ -43,4 +43,4 @@ INSERT INTO ProductCategory VALUES (1, 4), (1, 5), (3, 4), (4, 1), (5, 5)
 ![testData](testData.png)
 
 ### Результат
-![result](resultData.png)
+![result](ResultData.png)
